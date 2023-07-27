@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=slice&color=4169E1&height=150&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=25&duration=1500&pause=2500&color=4169E1&multiline=true&repeat=true&width=500&height=70&lines=Ol%C3%A1%2C+tudo+bem%3F;Me+chamo+Marco+Tettamanti)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&duration=1500&pause=2000&multiline=true&width=435&lines=Marco+Tettamanti;Desenvolvedor+Web)](https://git.io/typing-svg)
 
 Estudante autodidata em transação de carreira. Sou comunicativo e conhecido pelos meus colegas de trabalho como alguém honesto, sincero e esforçado.
 
