@@ -1,8 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=slice&color=4169E1&height=150&section=header"/>
+[![Typing SVG](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&section=header&descAlign=65&fontColor=00000&fontAlign=50&fontSize=40&fontAlignY=20)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=25&duration=1500&pause=2000&multiline=true&width=435&height=65&lines=Marco+Tettamanti;Desenvolvedor+Web)]()
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=25&duration=1500&pause=2000&multiline=true&width=435&height=65&lines=Marco+Tettamanti;Desenvolvedor+Web)](https://git.io/typing-svg)
+Estudante de desenvolvimento de software em transição de carreira. Sou comunicativo e conhecido como alguém meticuloso e dedicado. Tenho habilidades nas áreas de administração e TI. Possuo experiência em suporte e treinamento de aplicações web.
 
-Estudante autodidata em transação de carreira. Sou comunicativo e conhecido pelos meus colegas de trabalho como alguém honesto, sincero e esforçado.
+Para adquirir experiência em desenvolvimento de software, tenho realizado projetos como freelancer. Essas experiências me auxiliam a desenvolver um software em várias etapas: regras de negócio, modelagem do banco de dados e desenvolvimento do back-end utilizando os princípios Restful, que é consumido por um front-end.
 
 [![Static Badge](https://img.shields.io/badge/LINKEDIN-%234169E1)](https://www.linkedin.com/in/marco-tettamanti-1096a7279) [![Static Badge](https://img.shields.io/badge/PORTFOLIO-%234169E1)](https://tettam.github.io/my-portfolio/)
 
@@ -34,10 +35,7 @@ Estudante autodidata em transação de carreira. Sou comunicativo e conhecido pe
 <div style={{ display: 'flex'}}>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width='25' style="margin-right: 10px;"/>       
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width='30' style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width='25' style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width='25' style="margin-right: 10px;" />
 </div>
 
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=slice&color=4169E1&height=150&section=footer"/>
